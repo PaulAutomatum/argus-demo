@@ -1,0 +1,21 @@
+{
+  "generatedAt": "2026-11-02T23:34:12.481Z",
+  "sources": [
+    {
+      "id": "bridges",
+      "name": "Brückenstatistik Bundesfernstraßen (BASt)",
+      "url": "https://www.bast.de/fokusbruecken",
+      "license": "CC BY 4.0, © BASt; Positionen: Esri Deutschland",
+      "stand": "2026-03-01",
+      "count": 10920
+    },
+    {
+      "id": "accidents",
+      "name": "Unfallatlas 2023–2025 (Statistische Ämter des Bundes und der Länder)",
+      "url": "https://unfallatlas.statistikportal.de/",
+      "license": "dl-de/by-2-0",
+      "stand": "2025",
+      "count": 139631
+    }
+  ]
+}
