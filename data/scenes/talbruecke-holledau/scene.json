@@ -1,0 +1,134 @@
+{
+ "id": "talbruecke-holledau",
+ "title": "Talbrücke Holledau, A 9 Richtung München",
+ "lngLat": [
+  11.589732,
+  48.553713
+ ],
+ "date": "2026-11-09",
+ "eyeHeightM": 2.5,
+ "heading": 155.9,
+ "clearanceM": 28,
+ "frames": [
+  {
+   "time": "09:00",
+   "file": "0900.jpg",
+   "azimuth": 136.5,
+   "elevation": 13.7,
+   "headingDiff": -19.3,
+   "sunVisible": true
+  },
+  {
+   "time": "09:15",
+   "file": "0915.jpg",
+   "azimuth": 139.8,
+   "elevation": 15.3,
+   "headingDiff": -16.0,
+   "sunVisible": true
+  },
+  {
+   "time": "09:30",
+   "file": "0930.jpg",
+   "azimuth": 143.2,
+   "elevation": 16.8,
+   "headingDiff": -12.7,
+   "sunVisible": true
+  },
+  {
+   "time": "09:45",
+   "file": "0945.jpg",
+   "azimuth": 146.6,
+   "elevation": 18.3,
+   "headingDiff": -9.2,
+   "sunVisible": true
+  },
+  {
+   "time": "10:00",
+   "file": "1000.jpg",
+   "azimuth": 150.2,
+   "elevation": 19.6,
+   "headingDiff": -5.7,
+   "sunVisible": true
+  },
+  {
+   "time": "10:15",
+   "file": "1015.jpg",
+   "azimuth": 153.8,
+   "elevation": 20.7,
+   "headingDiff": -2.1,
+   "sunVisible": true
+  },
+  {
+   "time": "10:30",
+   "file": "1030.jpg",
+   "azimuth": 157.5,
+   "elevation": 21.7,
+   "headingDiff": 1.6,
+   "sunVisible": true
+  },
+  {
+   "time": "10:45",
+   "file": "1045.jpg",
+   "azimuth": 161.2,
+   "elevation": 22.6,
+   "headingDiff": 5.4,
+   "sunVisible": true
+  },
+  {
+   "time": "11:00",
+   "file": "1100.jpg",
+   "azimuth": 165.0,
+   "elevation": 23.3,
+   "headingDiff": 9.2,
+   "sunVisible": true
+  },
+  {
+   "time": "11:15",
+   "file": "1115.jpg",
+   "azimuth": 168.9,
+   "elevation": 23.9,
+   "headingDiff": 13.1,
+   "sunVisible": true
+  },
+  {
+   "time": "11:30",
+   "file": "1130.jpg",
+   "azimuth": 172.8,
+   "elevation": 24.3,
+   "headingDiff": 17.0,
+   "sunVisible": true
+  },
+  {
+   "time": "11:45",
+   "file": "1145.jpg",
+   "azimuth": 176.7,
+   "elevation": 24.5,
+   "headingDiff": 20.9,
+   "sunVisible": true
+  },
+  {
+   "time": "12:00",
+   "file": "1200.jpg",
+   "azimuth": 180.7,
+   "elevation": 24.6,
+   "headingDiff": 24.8,
+   "sunVisible": true
+  },
+  {
+   "time": "12:15",
+   "file": "1215.jpg",
+   "azimuth": 184.6,
+   "elevation": 24.4,
+   "headingDiff": 28.8,
+   "sunVisible": true
+  },
+  {
+   "time": "12:30",
+   "file": "1230.jpg",
+   "azimuth": 188.5,
+   "elevation": 24.1,
+   "headingDiff": 32.7,
+   "sunVisible": true
+  }
+ ]
+}
